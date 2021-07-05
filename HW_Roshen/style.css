@@ -1,0 +1,262 @@
+header{
+    display: inline-block;
+    background-color: #8c0a0d;
+    height: 70px;
+    width: 1300px;
+}
+.logo{
+    display: inline-block;
+    padding-top: 15px;
+    padding-left: 67px;
+    filter: contrast(3);
+}
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #f5e8c6;
+  width: 1300px;
+  height: 753px;
+  margin: auto;
+}
+a.navigate_menu {
+  display: inline-block;
+  color: #ffe394;
+  position: relative;
+  top: -7px;
+  text-decoration: none;
+  font-size: 13px;
+}
+div[class^="nav_menu"]:hover{
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  color: #bf670d;
+}
+div[class^="nav_menu"]:active{
+  transform: scale(1.3) translateY(1.5rem);   
+}
+
+div.nav_menu1{
+  padding-left: 125px;
+}
+
+div.nav_menu2{
+  padding-left: 30px;
+}
+
+div.nav_menu3{
+  padding-left: 30px;
+}
+
+div.nav_menu4{
+  padding-left: 30px;
+}
+
+div.nav_menu5{
+  padding-left: 30px;
+}
+
+div.nav_menu6{
+  padding-left: 30px;
+}
+.nav_ENG{
+  display: inline-block;
+  position: relative;
+  top: -5px;
+  left: 120px;
+}
+.text_ENG{
+  display: inline-block;
+  color: #ffe394;
+  font-size: 17px;
+  position: relative;
+  top: -7px;
+  left: 130px;
+}
+
+div.back1{
+  background-image: url(Image/Слой\ 15@1X.png);
+  height: 753px;
+  opacity: 0.2;
+}
+div.factory{
+  background-image: url(Image/Слой\ 5@1X.png);
+  width: 1175px;
+  height: 335px;
+  position: relative;
+  top: -727px;
+  left: 65px;
+  border: 4px solid black;
+}
+.roshen_world{
+  text-align: center;
+  font-size: 4em;
+  margin-top: 15px;
+}
+.arrows1{
+  margin-left: 28px;
+  position: relative;
+  bottom: -67px;;
+}
+.arrows2{
+  position: relative;
+  bottom: -4px;
+  left: -28px;
+  transform: scale(-0.99);
+}
+.button_center{
+  display: inline-block;
+  position: absolute;
+  top: 108px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+.button{
+  display: inline-block;
+  background-color: #f6cc79;
+  width: 189px;
+  height: 42px;
+  font-size: 1.2em;
+  line-height: 2;
+  border-radius: 12px;
+  border-bottom: 7px solid #bf670d;
+  font-weight: bold;
+  text-decoration-line: none;
+  color: #030303;
+}
+div.ellipse{
+  display: inline-block;
+  position: relative;
+  left: 555px;
+  bottom: -106px;
+  margin: 0 auto;
+  
+}
+.ellipse1{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+div.text_bold{
+  display: inline-block;
+  position: relative;
+  left: 555px;
+  bottom: -106px;
+  margin: 0 auto
+}
+.text_bold1{
+  display: inline-block;
+  position: relative;
+  top: -898px;
+  right: 490px;
+  width: 284px;
+}
+.text_bold2{
+  display: inline-block;
+  position: relative;
+  top: -874px;
+  right: 461px;
+  width: 279px;
+}
+.text_bold3{
+  display: inline-block;
+  position: relative;
+  top: -825px;
+  right: 439px;
+  width: 274px;
+}
+.text_bold4{
+  display: inline-block;
+  position: relative;
+  top: -873px;
+  right: 421px;
+  width: 265px;
+}
+p{
+  font-weight: bold;
+  line-height: 1.5em;
+}
+.t1{
+  position: relative;
+  font-size: 0.9em;
+  line-height: 1.8em;
+  bottom: -28px;
+}
+.t2{
+  position: relative;
+  font-size: 0.9em;
+  line-height: 1.8em;
+  bottom: -4px;
+}
+.t3{
+  position: relative;
+  font-size: 0.9em;
+  line-height: 1.8em;
+  bottom: 20px;
+}
+.t4{
+  position: relative;
+  font-size: 0.9em;
+  line-height: 1.8em;
+  bottom: -28px;
+}
+footer{
+  display: inline-block;
+  background-color: #8c0a0d;
+  position: relative;
+  top: -700px;
+  height: 70px;
+  width: 1300px;
+}
+a{
+  text-decoration: none;
+  color: #ffe394;
+}
+.link{
+  display: inline-block;
+  font-size: small;
+  line-height: 1.7;
+  position: relative;
+  left: 67px;
+  top: 15px;
+}
+.address{
+  display: inline-block;
+  font-size: small;
+  line-height: 1.7;
+  width: 160px;
+  position: relative;
+  left: 180px;
+  top: 15px;
+}
+.phone_numbers{
+  display: inline-block;
+  font-size: small;
+  line-height: 1.7;
+  width: 175px;
+  position: relative;
+  top: 15px;
+  left: 320px;
+}
+.email{
+  display: inline-block;
+  font-size: small;
+  line-height: 1.7;
+  width: 100px;
+  position: relative;
+  top: 15px;
+  left: 445px;
+}
+.social_networks{
+  display: inline-block;
+  position: relative;
+  top: 15px;
+  left: 520px;
+}
+.social_networks1{
+  display: inline-block;
+  position: relative;
+  top: 15px;
+  left: 530px;
+}
